@@ -1,0 +1,5 @@
+wc/PageRankMR$Reducer3.class
+wc/PageRankMR$Mapper3.class
+wc/PageRankMR$TokenizerMapper.class
+wc/PageRankMR.class
+wc/PageRankMR$IntSumReducer.class
